@@ -67,4 +67,4 @@ printf("Average Turn Around time = %f",t);
 return 0;
     
     
-}
+}}
